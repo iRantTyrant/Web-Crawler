@@ -2,7 +2,7 @@
 # Web Scraper and Text Mining Project
 
 ## Author
-iRant
+iRant (ece21168)
 
 ## Project Overview
 This project is developed as part of the Data-Mine course at the university. It is a web scraper and text mining tool that crawls a website, scrapes the content, processes and cleans it using NLP techniques, stores the data in MongoDB, and provides functionality to index, search, and analyze the content. Additionally, it can create similarity models using Bag of Words (BoW) and TF-IDF, and visualize the similarity results with heatmaps.
@@ -85,7 +85,7 @@ README.md
 - Cleaned content is saved in MongoDB under the `cleaned_content` field for further analysis.
 
 ## Contact
-For questions or feedback, please contact: [your-email@example.com]
+For questions or feedback, please contact: [theflyingtoastgr@gmail.com]
 
 ---
 
