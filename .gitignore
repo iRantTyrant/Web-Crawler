@@ -1,0 +1,6 @@
+# Exclude virtual environment directory
+scrapper-venv/
+
+# Exclude NLTK data directory
+nltk_data/
+__pycache__/
